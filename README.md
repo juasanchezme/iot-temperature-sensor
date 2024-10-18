@@ -24,17 +24,11 @@ I had a great time working on this project, and here’s a video demo showcasing
 
 Click on the image above to watch the demo on YouTube.
 
-## 🏗️ Modelo 3D del Prototipo
+## 🏗️ 3D Model of the Prototype
 
-He creado un modelo 3D del prototipo en Sketchfab. Puedes visualizarlo directamente en la plataforma:
+I have created a 3D model of the prototype on Sketchfab. You can view it directly on the platform:
 
-[¡Ver Modelo 3D en Sketchfab!](https://sketchfab.com/3d-models/ecoguardian-alerta-temprana-de-incendios-80026e1eb8a84daeb2bdb3b42a0958c7)
-
-### Reproductor de Sketchfab
-
-Aquí está el reproductor embebido para una vista rápida del modelo:
-
-<iframe width="640" height="480" src="https://sketchfab.com/models/80026e1eb8a84daeb2bdb3b42a0958c7/embed" frameborder="0" allowfullscreen></iframe>
+[View 3D Model on Sketchfab!](https://sketchfab.com/3d-models/ecoguardian-alerta-temprana-de-incendios-80026e1eb8a84daeb2bdb3b42a0958c7)
 
 
 ## 📜 Justification
