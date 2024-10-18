@@ -15,6 +15,8 @@ The implementation of this system is designed to be energy-efficient and capable
 
 ## 🏗️ System Architecture
 The system is composed of several sensors and hardware components, powered by renewable energy, that continuously monitor temperature, humidity, and gas levels. Data is transmitted through LoRa technology to a central node, where it is processed and sent to mobile devices for real-time alerts. 
+![IoT Temperature Sensor Architecture](iot-temperature-sensor/images/Picture1.png)
+
 
 The architecture includes:
 1. **Sensor Nodes**: 📡 Collect environmental data.
