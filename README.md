@@ -1,6 +1,6 @@
-# 🌲 Forest Fire Early Warning System 🔥
+# [English Version](#english-version) | [Versión en Español](#versión-en-español)
 
-[English Version](#english-version) | [Versión en Español](#versión-en-español)
+
 
 ---
 
