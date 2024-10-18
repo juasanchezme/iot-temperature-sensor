@@ -9,13 +9,13 @@
 # 🌲 Forest Fire Early Warning System 🔥
 
 ## 📜 Table of Contents
-- [Project Demo](#project-demo)
-- [Justification](#justification)
-- [Objectives](#objectives)
-- [System Architecture](#system-architecture)
-- [Acknowledgements and Gratitude](#acknowledgements-and-gratitude)
-- [Future Improvements](#future-improvements)
-- [Versión en Español](#versión-en-español)
+- [Project Demo](#-project-demo)
+- [Justification](#-justification)
+- [Objectives](#-objectives)
+- [System Architecture](#-system-architecture)
+- [Acknowledgements and Gratitude](#-acknowledgements-and-gratitude)
+- [Future Improvements](#-future-improvements)
+- [Versión en Español](#-versión-en-español)
 
 ## 🎥 Project Demo
 I had a great time working on this project, and here’s a video demo showcasing how the system works:
@@ -81,12 +81,12 @@ I am deeply grateful for the recognition given to this project. The experience w
 # 🌲 Sistema de Alerta Temprana de Incendios Forestales 🔥
 
 ## 📜 Contenido
-- [Demostración del Proyecto](#demostración-del-proyecto)
-- [Justificación](#justificación)
-- [Objetivos](#objetivos)
-- [Arquitectura del Sistema](#arquitectura-del-sistema)
-- [Reconocimientos y Agradecimientos](#reconocimientos-y-agradecimientos)
-- [Mejoras Futuras](#mejoras-futuras)
+- [Demostración del Proyecto](#-demostración-del-proyecto)
+- [Justificación](#-justificación)
+- [Objetivos](#-objetivos)
+- [Arquitectura del Sistema](#-arquitectura-del-sistema)
+- [Reconocimientos y Agradecimientos](#-reconocimientos-y-agradecimientos)
+- [Mejoras Futuras](#-mejoras-futuras)
 
 ## 🎥 Demostración del Proyecto
 Tuve un gran tiempo trabajando en este proyecto, y aquí hay un video demostrativo que muestra cómo funciona el sistema:
@@ -122,17 +122,17 @@ La arquitectura incluye:
 | **Componente**                          | **Descripción**                                                                                     |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 🌡️ **Sensor de Temperatura y Humedad (SHT31)** | Mide la temperatura y la humedad, esenciales para detectar condiciones que podrían llevar a incendios. |
-| 🛑 **Sensor de Gas (MQ2)**              | Detecta humo o gases como metano, propano y butano que pueden indicar la presencia de fuego.       |
-| ⚙️ **Arduino Nano**                    | Actúa como el microcontrolador, procesando datos de los sensores y controlando el sistema.          |
-| 📡 **Transceptor LoRa (SX1278)**       | Proporciona comunicación a larga distancia entre los nodos de sensor y el sistema central.          |
-| ☀️ **Panel Solar (6V 3W 500mA)**        | Alimenta el sistema utilizando energía renovable, asegurando la operación en áreas remotas.          |
+| 🛑 **Sensor de Gas (MQ2)**              | Detecta humo o gases como metano, propano y butano que pueden indicar la presencia de fuego.        |
+| ⚙️ **Arduino Nano**                     | Actúa como el microcontrolador, procesando datos de los sensores y controlando el sistema.            |
+| 📡 **Transceptor LoRa (SX1278)**        | Proporciona comunicación de largo alcance entre los nodos de sensor y el sistema central.             |
+| ☀️ **Panel Solar (6V 3W 500mA)**        | Alimenta el sistema utilizando energía renovable, asegurando operación en áreas remotas.             |
 | 🔋 **Batería de Li-ion (18650 3500mAh)**| Almacena energía del panel solar para asegurar operación continua, incluso durante la noche.         |
-| 🔌 **Convertidor DC-DC (MT3608)**      | Regula el voltaje de la batería para proporcionar energía estable a los componentes.                |
+| 🔌 **Convertidor DC-DC (MT3608)**       | Regula el voltaje de la batería para proporcionar energía estable a los componentes.                 |
 
-![Diagrama de circuito](https://github.com/juasanchezme/iot-temperature-sensor/blob/main/images/esquematicoConexion.png)
+![Diagrama del circuito](https://github.com/juasanchezme/iot-temperature-sensor/blob/main/images/esquematicoConexion.png)
 
 ## 🙏 Reconocimientos y Agradecimientos
-Estoy profundamente agradecido por el reconocimiento otorgado a este proyecto. La experiencia fue tanto agradable como educativa, y aprecio todo el apoyo recibido a lo largo del proceso. Aquí hay algunos momentos capturados durante la presentación:
+Estoy profundamente agradecido por el reconocimiento dado a este proyecto. La experiencia fue tanto agradable como educativa, y aprecio todo el apoyo recibido a lo largo del proceso. Aquí hay algunos momentos capturados durante la presentación:
 
 <p align="center">
   <img src="https://github.com/juasanchezme/iot-temperature-sensor/blob/main/presentacionProyecto1.jpeg" alt="Presentación 1" width="30%" />
@@ -141,6 +141,6 @@ Estoy profundamente agradecido por el reconocimiento otorgado a este proyecto. L
 </p>
 
 ## 🌟 Mejoras Futuras
-- **Sensores Adicionales**: Integrar más tipos de sensores como velocidad del viento 🌬️ o calidad del aire 🏭 para mejorar la precisión de predicción de incendios.
+- **Sensores Adicionales**: Integrar más tipos de sensores como velocidad del viento 🌬️ o calidad del aire 🏭 para mejorar la precisión de la predicción de incendios.
 - **Aprendizaje Automático**: Implementar modelos de aprendizaje automático 🤖 para predecir el riesgo de incendio basado en datos históricos y en tiempo real.
-- **Red Extendida**: Desplegar más nodos de sensores para cubrir un área más amplia 🌍 y garantizar una detección de incendios completa.
+- **Red Ampliada**: Desplegar más nodos de sensor para cubrir un área más grande 🌍 y asegurar una detección integral de incendios.
