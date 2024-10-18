@@ -24,6 +24,19 @@ I had a great time working on this project, and here’s a video demo showcasing
 
 Click on the image above to watch the demo on YouTube.
 
+## 🏗️ Modelo 3D del Prototipo
+
+He creado un modelo 3D del prototipo en Sketchfab. Puedes visualizarlo directamente en la plataforma:
+
+[¡Ver Modelo 3D en Sketchfab!](https://sketchfab.com/3d-models/ecoguardian-alerta-temprana-de-incendios-80026e1eb8a84daeb2bdb3b42a0958c7)
+
+### Reproductor de Sketchfab
+
+Aquí está el reproductor embebido para una vista rápida del modelo:
+
+<iframe width="640" height="480" src="https://sketchfab.com/models/80026e1eb8a84daeb2bdb3b42a0958c7/embed" frameborder="0" allowfullscreen></iframe>
+
+
 ## 📜 Justification
 Forest fires are primarily influenced by human activities rather than spontaneous natural events. In order to prevent and alert authorities about potential forest fires, it is imperative to develop an early warning system. This system aims to minimize environmental and ecosystem losses by providing real-time monitoring and control to district and private organizations.
 
