@@ -15,7 +15,7 @@
 - [System Architecture](#-system-architecture)
 - [Acknowledgements and Gratitude](#-acknowledgements-and-gratitude)
 - [Future Improvements](#-future-improvements)
-- [Versión en Español](#-versión-en-español)
+
 
 ## 🎥 Project Demo
 I had a great time working on this project, and here’s a video demo showcasing how the system works:
