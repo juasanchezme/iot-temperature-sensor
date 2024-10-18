@@ -37,6 +37,17 @@ The architecture includes:
 
 ![Circuit diagram](https://github.com/juasanchezme/iot-temperature-sensor/blob/main/images/esquematicoConexion.png)
 
+## 🙏 Acknowledgements and Gratitude
+
+I am deeply grateful for the recognition given to this project. The experience was both enjoyable and educational, and I appreciate all the support received throughout the process. Here are some moments captured during the presentation:
+
+<p align="center">
+  <img src="https://github.com/juasanchezme/iot-temperature-sensor/blob/main/presentacionProyecto1.jpeg" alt="Presentation 1" width="30%" />
+  <img src="https://github.com/juasanchezme/iot-temperature-sensor/blob/main/presentacionProyecto2.jpeg" alt="Presentation 2" width="30%" />
+  <img src="https://github.com/juasanchezme/iot-temperature-sensor/blob/main/presentacionProyecto3.jpeg" alt="Presentation 3" width="30%" />
+</p>
+
+
 
 ## 🌟 Future Improvements
 - **Additional Sensors**: Integrate more types of sensors such as wind speed 🌬️ or air quality 🏭 to improve fire prediction accuracy.
