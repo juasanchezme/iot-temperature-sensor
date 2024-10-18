@@ -31,3 +31,9 @@ The architecture includes:
 | ☀️ **Solar Panel (6V 3W 500mA)**        | Powers the system using renewable energy, ensuring operation in remote areas.                        |
 | 🔋 **Li-ion Battery (18650 3500mAh)**   | Stores energy from the solar panel to ensure continuous operation, even during the night.             |
 | 🔌 **DC-DC Converter (MT3608)**         | Regulates the voltage from the battery to provide stable power to the components.                    |
+
+
+## 🌟 Future Improvements
+- **Additional Sensors**: Integrate more types of sensors such as wind speed 🌬️ or air quality 🏭 to improve fire prediction accuracy.
+- **Machine Learning**: Implement machine learning models 🤖 to predict fire risk based on historical and real-time data.
+- **Extended Network**: Deploy more sensor nodes to cover a larger area 🌍 and ensure comprehensive fire detection.
