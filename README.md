@@ -9,7 +9,7 @@
 # 🌲 Forest Fire Early Warning System 🔥
 
 ## 📜 Table of Contents
-- [Project Demo](#-project-demo)
+- [Project Demo](#project-demo)
 - [Justification](#justification)
 - [Objectives](#objectives)
 - [System Architecture](#system-architecture)
@@ -122,9 +122,9 @@ La arquitectura incluye:
 | **Componente**                          | **Descripción**                                                                                     |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 🌡️ **Sensor de Temperatura y Humedad (SHT31)** | Mide la temperatura y la humedad, esenciales para detectar condiciones que podrían llevar a incendios. |
-| 🛑 **Sensor de Gas (MQ2)**              | Detecta humo o gases como metano, propano y butano que pueden indicar la presencia de fuego.        |
-| ⚙️ **Arduino Nano**                     | Actúa como el microcontrolador, procesando datos de los sensores y controlando el sistema.          |
-| 📡 **Transceptor LoRa (SX1278)**       | Proporciona comunicación a larga distancia entre los nodos de sensor y el sistema central.           |
+| 🛑 **Sensor de Gas (MQ2)**              | Detecta humo o gases como metano, propano y butano que pueden indicar la presencia de fuego.       |
+| ⚙️ **Arduino Nano**                    | Actúa como el microcontrolador, procesando datos de los sensores y controlando el sistema.          |
+| 📡 **Transceptor LoRa (SX1278)**       | Proporciona comunicación a larga distancia entre los nodos de sensor y el sistema central.          |
 | ☀️ **Panel Solar (6V 3W 500mA)**        | Alimenta el sistema utilizando energía renovable, asegurando la operación en áreas remotas.          |
 | 🔋 **Batería de Li-ion (18650 3500mAh)**| Almacena energía del panel solar para asegurar operación continua, incluso durante la noche.         |
 | 🔌 **Convertidor DC-DC (MT3608)**      | Regula el voltaje de la batería para proporcionar energía estable a los componentes.                |
