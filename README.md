@@ -102,6 +102,12 @@ Tuve un gran tiempo trabajando en este proyecto, y aquí hay un video demostrati
 
 Haz clic en la imagen de arriba para ver la demostración en YouTube.
 
+## 🏗️ Modelo 3D del Prototipo
+
+He creado un modelo 3D del prototipo en Sketchfab. Puedes visualizarlo directamente en la plataforma:
+
+[¡Ver Modelo 3D en Sketchfab!](https://sketchfab.com/3d-models/ecoguardian-alerta-temprana-de-incendios-80026e1eb8a84daeb2bdb3b42a0958c7)
+
 ## 📜 Justificación
 Los incendios forestales son principalmente influenciados por actividades humanas más que por eventos naturales espontáneos. Para prevenir y alertar a las autoridades sobre incendios forestales potenciales, es imperativo desarrollar un sistema de alerta temprana. Este sistema tiene como objetivo minimizar las pérdidas ambientales y del ecosistema proporcionando monitoreo y control en tiempo real a organizaciones distritales y privadas.
 
