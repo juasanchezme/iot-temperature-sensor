@@ -21,3 +21,13 @@ The architecture includes:
 2. **Data Transmission**: 🚀 Via LoRa technology to a central server.
 3. **Central Processing**: 🧠 Data is analyzed, and alerts are generated.
 4. **Mobile Notifications**: 📱 Authorities and users are notified of any potential fire risks.
+
+| **Component**                           | **Description**                                                                                     |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 🌡️ **Temperature and Humidity Sensor (SHT31)** | Measures temperature and humidity, essential for detecting conditions that could lead to fires.       |
+| 🛑 **Gas Sensor (MQ2)**                 | Detects smoke or gases such as methane, propane, and butane that may indicate the presence of fire.  |
+| ⚙️ **Arduino Nano**                     | Acts as the microcontroller, processing data from the sensors and controlling the system.            |
+| 📡 **LoRa Transceiver (SX1278)**        | Provides long-range communication between the sensor nodes and the central system.                    |
+| ☀️ **Solar Panel (6V 3W 500mA)**        | Powers the system using renewable energy, ensuring operation in remote areas.                        |
+| 🔋 **Li-ion Battery (18650 3500mAh)**   | Stores energy from the solar panel to ensure continuous operation, even during the night.             |
+| 🔌 **DC-DC Converter (MT3608)**         | Regulates the voltage from the battery to provide stable power to the components.                    |
