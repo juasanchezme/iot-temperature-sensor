@@ -35,6 +35,8 @@ The architecture includes:
 | 🔋 **Li-ion Battery (18650 3500mAh)**   | Stores energy from the solar panel to ensure continuous operation, even during the night.             |
 | 🔌 **DC-DC Converter (MT3608)**         | Regulates the voltage from the battery to provide stable power to the components.                    |
 
+![Circuit diagram](https://github.com/juasanchezme/iot-temperature-sensor/blob/main/images/esquematicoConexion.png)
+
 
 ## 🌟 Future Improvements
 - **Additional Sensors**: Integrate more types of sensors such as wind speed 🌬️ or air quality 🏭 to improve fire prediction accuracy.
