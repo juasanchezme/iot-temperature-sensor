@@ -1,10 +1,10 @@
 # 🌲 Forest Fire Early Warning System 🔥
 
-[🇺🇸 English Version](#english-version) | [🇪🇸 Versión en Español](#versión-en-español)
+[English Version](#english-version) | [Versión en Español](#versión-en-español)
 
 ---
 
-## 🇺🇸 English Version
+## English Version
 
 # 🌲 Forest Fire Early Warning System 🔥
 
@@ -76,7 +76,7 @@ I am deeply grateful for the recognition given to this project. The experience w
 
 ---
 
-## 🇪🇸 Versión en Español
+## Versión en Español
 
 # 🌲 Sistema de Alerta Temprana de Incendios Forestales 🔥
 
