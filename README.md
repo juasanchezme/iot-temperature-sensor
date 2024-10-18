@@ -1,5 +1,14 @@
 # 🌲 Forest Fire Early Warning System 🔥
 
+## 🎥 Project Demo
+
+I had a great time working on this project, and here’s a video demo showcasing how the system works:
+
+[![Project Demo Video](https://img.youtube.com/vi/xtU1OrlX2rM/0.jpg)](https://www.youtube.com/watch?v=xtU1OrlX2rM)
+
+Click on the image above to watch the demo on YouTube.
+
+
 ## 📜 Justification
 Forest fires are primarily influenced by human activities rather than spontaneous natural events. In order to prevent and alert authorities about potential forest fires, it is imperative to develop an early warning system. This system aims to minimize environmental and ecosystem losses by providing real-time monitoring and control to district and private organizations.
 
